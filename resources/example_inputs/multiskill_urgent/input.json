@@ -1,0 +1,33 @@
+[
+    {
+        "new_agent": {
+            "id": "1",
+            "name": "Vegeta",
+            "primary_skillset": [
+                "bills-questions",
+                "rewards-questions"
+            ],
+            "secondary_skillset": []
+        }
+    },
+    {
+        "new_job": {
+            "id": "1",
+            "type": "rewards-questions",
+            "urgent": false
+        }
+    },
+    {
+        "new_job": {
+            "id": "2",
+            "type": "bills-questions",
+            "urgent": true
+        }
+    }
+	,
+    {
+      "job_request": {
+        "agent_id": "1"
+      }
+    }
+]

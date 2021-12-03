@@ -1,0 +1,47 @@
+[
+    {
+        "new_agent": {
+            "id": "1",
+            "name": "Vegeta",
+            "primary_skillset": [
+                "bills-questions"
+            ],
+            "secondary_skillset": []
+        }
+    },
+    {
+        "new_agent": {
+            "id": "2",
+            "name": "Goku",
+            "primary_skillset": [
+                "rewards-questions"
+            ],
+            "secondary_skillset": []
+        }
+    },
+    {
+        "new_job": {
+            "id": "1",
+            "type": "bills-questions",
+            "urgent": false
+        }
+    },
+    {
+        "new_job": {
+            "id": "2",
+            "type": "rewards-questions",
+            "urgent": false
+        }
+    },
+	,
+  {
+    "job_request": {
+      "agent_id": "1"
+    }
+  },
+  {
+    "job_request": {
+      "agent_id": "2"
+    }
+  }
+]
